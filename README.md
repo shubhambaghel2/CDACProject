@@ -1,2 +1,2 @@
 # CDACProject
-This repo is just for demo purpose
+This repository is  for developing Web Appliactions.
